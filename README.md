@@ -1,6 +1,6 @@
 # Susmita Hazra — Portfolio
 
-A modern, dark-themed portfolio website built with React and Vite.
+A modern, dark-themed portfolio website built with React and Vite
 
 **Live:** [susmitahazra.netlify.app](https://susmitahazra.netlify.app)
 
