@@ -2,7 +2,7 @@
 
 A modern, dark-themed portfolio website built with React and Vite
 
-**Live:** [susmitahazra.netlify.app](https://susmitahazra.netlify.app)
+**Live:** [susmitahazra.in](https://susmitahazra.in)
 
 ## Tech Stack
 
@@ -27,5 +27,3 @@ A modern, dark-themed portfolio website built with React and Vite
 npm install
 npm run dev
 ```
-
-The dev server runs on `http://localhost:5173`
